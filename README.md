@@ -1,4 +1,5 @@
-# ProjetoProfªLeticiaExerc01
+# Projeto Numeros Inteiros
+
 Crie um programa que solicite ao usuário a entrada de dois números inteiros, armazene esses valores em variáveis do tipo int, e depois exiba o resultado da soma desses dois números.
 Dicas:
 Utilize Console.WriteLine para exibir mensagens e pedir os valores.
